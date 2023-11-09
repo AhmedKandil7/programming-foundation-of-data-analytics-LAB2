@@ -1,0 +1,30 @@
+Q(1): 
+Q(A) :  the value of pi = 3.14
+Q(B) :  pi = 22/7 = 3.142
+Q(C) :  invalid syntax
+----------------------------------------------
+Q(2):
+for i in range(998,1002):
+    print(i)
+-----------------------------------
+Q(3): 
+3.863	3.86	3.9
+4	3
+
+%.0f prints the floating number without digits after the point (approximating to the nearst real number
+%d prints signed integer
+
+-------------------------------------
+Q(4) : print('''My name is Ahmed
+Friends call me "Mido :)"
+I don't like apples
+bananas
+peaches''')
+
+-------------------------------
+Q(5):
+Hello. My name is ahmed. I am from Cairo
+['Hello.', 'My', 'name', 'is', 'ahmed.', 'I', 'am', 'from', 'Cairo']
+['Hello. My name is ahmed. I am from Cairo']
+['Hello', ' My name is ahmed', ' I am from Cairo']
+['Hello', 'My name is ahmed', 'I am from Cairo']
